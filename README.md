@@ -1,3 +1,3 @@
 # Membership_Admin
 
-Membership  Management  with  PHP
+Membership  Management  with  PHP & MySql
